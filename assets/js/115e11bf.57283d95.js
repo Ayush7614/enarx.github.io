@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8903],{6516:function(s){s.exports=JSON.parse('{"allTagsPath":"/resources/tags","slug":"/resources/tags/mikes-blog","name":"Mike\'s Blog","count":7,"permalink":"/resources/tags/mikes-blog"}')}}]);

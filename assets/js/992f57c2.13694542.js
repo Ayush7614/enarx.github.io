@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5555],{5390:function(e){e.exports=JSON.parse('{"allTagsPath":"/resources/tags","slug":"/resources/tags/release","name":"Release","count":3,"permalink":"/resources/tags/release"}')}}]);
